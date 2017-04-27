@@ -41,15 +41,9 @@ A definition is usually a statement that has the following structure as well:
 
 For example, the following statements can be Definitions.
 
-```
-The natural numbers &#8469; are the set of positive integers (&#8484;+), excluding zero.
-```
-```
-The set of positive integers (&#8484;+) are the set of integers, excluding all negative numbers.
-```
-```
-The set of integers (&#8484;) is a number without a fractional component.
-```
+- The natural numbers &#8469; are the set of positive integers (&#8484;+), excluding zero.
+- The set of positive integers (&#8484;+) are the set of integers, excluding all negative numbers.
+- The set of integers (&#8484;) is a number without a fractional component.
 
 ### Axiom
 TODO
