@@ -46,9 +46,22 @@ For example, the following statements can be Definitions.
 - The set of integers (&#8484;) is a number without a fractional component.
 
 ### Axiom
-TODO
+An axiom is a statement which is assumed to be true. These are similar to definitions and they form the foundations on top of which
+all proofs are built. The format for an axiom (in English) is the usual subject-predicate format for a sentence. They are typically
+written symbolically instead.
 
-### Sub Proof
+- Subject
+- the thing we are talking about
+- Predicate
+- the property we give to the subject
+
+For example, the following statements are axioms.
+
+- Two sets are equal if and only if they contain the same elements.
+- A vector space contains an identity element for addition.
+- A proposition must either be true or false (law of excluded middle).
+
+### Sub Proof / Lemma
 TODO
 
 ### Proof
